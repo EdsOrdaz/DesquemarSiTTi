@@ -15,7 +15,7 @@ namespace DesquemarSiTTi
     {
         //0.01
         private String versiontext = "0.013";
-        private String version = "4e452fdc97dcb2d71864b9f702a55d49";
+        private String version = "b559aa8d7bcf84f360b060578626b7ef20d622a5";
         public static String conexionsqllast = "server=148.223.153.37,5314; database=InfEq;User ID=eordazs;Password=Corpame*2013; integrated security = false ; MultipleActiveResultSets=True";
 
 
